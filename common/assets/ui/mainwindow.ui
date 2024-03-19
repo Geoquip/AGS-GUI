@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>AGS GUI v4.61</string>
+   <string>AGS GUI v4.62</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <property name="minimumSize">
@@ -925,6 +925,11 @@ QComboBox QAbstractItemView{
                      <item>
                       <property name="text">
                        <string>Geolabs (50HZ Fugro)</string>
+                      </property>
+                     </item>
+                     <item>
+                      <property name="text">
+                       <string>Geolabs 50hz Phase 2</string>
                       </property>
                      </item>
                      <item>
@@ -1984,7 +1989,7 @@ QPushButton:disabled {
      <x>0</x>
      <y>0</y>
      <width>450</width>
-     <height>22</height>
+     <height>18</height>
     </rect>
    </property>
   </widget>
